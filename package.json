@@ -1,6 +1,6 @@
 {
 	"name": "@lxghtless/pulsar",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Given an emitter, event name and pulse delay, emit events until you want them to stop",
 	"license": "ISC",
 	"repository": "lxghtless/pulsar",
