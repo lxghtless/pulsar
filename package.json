@@ -32,7 +32,9 @@
 	},
 	"nyc": {
 		"all": true,
-		"include": ["index.js"],
+		"include": [
+			"index.js"
+		],
 		"reporter": [
 			"text",
 			"lcov"
