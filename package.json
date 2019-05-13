@@ -1,0 +1,33 @@
+{
+	"name": "@lxghtless/pulsar",
+	"version": "0.0.0",
+	"description": "Given an emitter, event name and pulse delay, emit events until you want them to stop",
+	"license": "ISC",
+	"repository": "lxghtless/pulsar",
+	"author": {
+		"name": "lxghtlxss",
+		"email": "lxghtl3ss@gmail.com",
+		"url": "github.com/lxghtless"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && nyc ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {
+		"delay": "^4.2.0",
+		"p-forever": "^2.1.0"
+	},
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"nyc": "^14.1.0",
+		"xo": "^0.24.0"
+	}
+}
