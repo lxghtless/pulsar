@@ -2,7 +2,7 @@
 
 > Given an emitter, event name and pulse delay, emit events until you want them to stop
 
- [![CircleCI](https://circleci.com/gh/lxghtless/pulsar.svg?style=svg)](https://circleci.com/gh/lxghtless/pulsar) &nbsp; [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+ [![CircleCI](https://circleci.com/gh/lxghtless/pulsar.svg?style=svg)](https://circleci.com/gh/lxghtless/pulsar) &nbsp; [![codecov](https://codecov.io/gh/lxghtless/pulsar/branch/master/graph/badge.svg)](https://codecov.io/gh/lxghtless/pulsar) &nbsp; [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
 ## Install
 
