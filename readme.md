@@ -2,14 +2,13 @@
 
 > Given an emitter, event name and pulse delay, emit events until you want them to stop
 
- [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+ [![CircleCI](https://circleci.com/gh/lxghtless/pulsar.svg?style=svg)](https://circleci.com/gh/lxghtless/pulsar) &nbsp; [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
 ## Install
 
 ```
 $ npm install @lxghtless/pulsar
 ```
-
 
 ## Usage
 
